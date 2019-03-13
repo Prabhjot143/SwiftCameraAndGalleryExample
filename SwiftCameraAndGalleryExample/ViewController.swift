@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SwiftCameraAndGalleryExample
 //
-//  Created by MacStudent on 2019-03-13.
+//  Created by prabhjot on 2019-03-13.
 //  Copyright © 2019 MacStudent. All rights reserved.
 //
 
