@@ -29,7 +29,8 @@ class ViewController: UIViewController ,UIImagePickerControllerDelegate, UINavig
         }
     }
     
-    @IBAction func btnGallery(_ sender: UIBarButtonItem) {
+    @IBAction func btnGallery(_ sender: UIBarButtonItem
+        ) {
      if UIImagePickerController.isSourceTypeAvailable(.photoLibrary){
                 let myPickerController = UIImagePickerController()
                 myPickerController.delegate = self as UIImagePickerControllerDelegate & UINavigationControllerDelegate;
